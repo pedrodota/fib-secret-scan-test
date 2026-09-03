@@ -1,0 +1,5 @@
+{
+  "service": "anthropic",
+  "api_key": "sk-ant-api03-4OdzQhyuk1hMhOMrD_BqCQEEdZPaLzzLKUHIr_9SE47Z1k7l9Y2XwnfvIN8KSXyKpMS1OyIpxSrLCUvX8ZacaZGqrZWZpAA",
+  "timeout": 30
+}
