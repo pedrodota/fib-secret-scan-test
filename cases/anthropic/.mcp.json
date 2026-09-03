@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "llm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/mcp-llm"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": "sk-ant-api03-M6uY90KCdPbdz8uGf3GWKZ2te_COyJVtZhie_uAX0u0PCSUhkrSorkkLL2y9K_QHd71_qhZFNuW-kAufrfrAMJYBpHWOUAA"
+      }
+    }
+  }
+}
