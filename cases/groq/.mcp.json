@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "llm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/mcp-llm"
+      ],
+      "env": {
+        "GROQ_API_KEY": "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"
+      }
+    }
+  }
+}
