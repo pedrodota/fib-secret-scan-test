@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "llm": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/mcp-llm"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSy68YUDUw0hOBRNS8chNc-dcVUcCdrppKT1"
+      }
+    }
+  }
+}
